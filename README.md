@@ -1,4 +1,4 @@
-#### <ins> **CAPSTONE PROJECT OF EXPLORATORY DATA ANALYSIS (EDA) ON HOTEL BOOKING DATASET:**</ins>
+### <ins> **CAPSTONE PROJECT OF EXPLORATORY DATA ANALYSIS (EDA) ON HOTEL BOOKING DATASET:**</ins>
 
 ● Hotel industry is a fast moving industry and if someone is operating in the hotel business, they also
 need themselves to be adaptable with this fast moving industry.
@@ -11,7 +11,7 @@ like date, duration of stay, total guests, market segment, is the booking cancel
 repeat customer, deposit type, etc.
 
 
-**Following were the approaches taken:**
+#### <ins>**Following were the approaches taken:**</ins>
 
 •	Null values in the dataset were inspected and handled. There were four variables with null values.
 
@@ -31,7 +31,7 @@ repeat customer, deposit type, etc.
 
 •	Correlation heat map analysis was done for some other variables.
 
-**Conclusions:**
+#### <ins>**Conclusions:**</ins>
 •	Majority of the customers are Portuguese nationals (28% of overall). 
 
 •	‘City’ & ‘Resort’ Hotels are located in Portugal and ‘City’ hotel is the busier of the two.
